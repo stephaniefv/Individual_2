@@ -1,1 +1,3 @@
-# Individual_2
+# Projeto Individual 2 
+# Resilia #
+# Senac
